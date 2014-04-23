@@ -1,0 +1,17 @@
+﻿Построение начато 18.03.2014 23:07:23.
+     1>Проект "F:\ИПЗ\2 курс\4 Семестр\Архитектура компьютеров\asm_project\asm_project\asm_project\asm_project.vcxproj" в узле 2 (целевые объекты Build).
+     1>_MASM:
+         Assembling main.asm...
+         cmd.exe /C "C:\Users\AdminPC\AppData\Local\Temp\tmpb6c684c7563c467bbd5d1972a186de56.cmd"
+         ml64.exe /c /nologo /Zi /Fo"x64\Debug\main.obj" /W3 /errorReport:prompt  /Tamain.asm
+     1>main.asm(1): error A2008: syntax error : .
+     1>main.asm(2): error A2008: syntax error : .
+     1>main.asm(24): error A2008: syntax error : invoke
+     1>main.asm(26): error A2008: syntax error : main
+     1>main.asm(26): error A2088: END directive required at end of file
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\BuildCustomizations\masm.targets(49,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\main.obj" /W3 /errorReport:prompt  /Tamain.asm" с кодом "1".
+     1>Построение проекта "F:\ИПЗ\2 курс\4 Семестр\Архитектура компьютеров\asm_project\asm_project\asm_project\asm_project.vcxproj" завершено (целевые объекты Build) с ошибкой.
+
+Сбой построения.
+
+Затраченное время: 00:00:01.21

@@ -1,0 +1,14 @@
+﻿Построение начато 23.04.2014 22:47:39.
+     1>Проект "F:\ИПЗ\2 курс\4 Семестр\Архитектура компьютеров\asm_project\asm_project\asm_project\asm_project.vcxproj" в узле 2 (целевые объекты Build).
+     1>_MASM:
+         Assembling main.asm...
+         cmd.exe /C "C:\Users\AdminPC\AppData\Local\Temp\tmp4363390f584842818a9b9bb070cec2fb.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\main.obj" /W3 /errorReport:prompt  /Tamain.asm
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\ИПЗ\2 курс\4 Семестр\Архитектура компьютеров\asm_project\asm_project\Debug\asm_project.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\ИПЗ\2 курс\4 Семестр\Архитектура компьютеров\asm_project\asm_project\Debug\asm_project.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\ИПЗ\2 курс\4 Семестр\Архитектура компьютеров\asm_project\asm_project\Debug\asm_project.lib" /MACHINE:X86 Debug\main.obj
+         asm_project.vcxproj -> F:\ИПЗ\2 курс\4 Семестр\Архитектура компьютеров\asm_project\asm_project\Debug\asm_project.exe
+     1>Построение проекта "F:\ИПЗ\2 курс\4 Семестр\Архитектура компьютеров\asm_project\asm_project\asm_project\asm_project.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.78
